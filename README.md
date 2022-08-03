@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kuro.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript.
-- 📫 How to reach me: kurolinks@gmail.com 
+- 📫 How to reach me: wusbiri@gmail.com 
 
 <!---
 Kurolinks/Kurolinks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
