@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning JavaScript.
 - 🌱 I’m currently learning Python.
 - 🌱 I’m currently learning C.
-- 📫 How to reach me: wsubiri@gmail.com 
+- 📫 How to reach me: wsubiri@gmail.com
+- - 📫 How to reach me: kurolinks@gmail.com 
 
 <!---
 Kurolinks/Kurolinks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
